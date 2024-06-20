@@ -56,7 +56,7 @@
    &kp TAB    &kp N1   &kp N2    &kp N3    &kp N4     &kp N5          &kp N6      &kp N7     &kp N8     &kp N9     &kp N0     &kp DEL
    &kp ESC    &kp INS  &kp HOME  &kp UP    &kp END    &kp PGUP        &kp PLUS    &kp MINUS  &kp ASTRK  &kp SLASH  &kp EQUAL  &kp LCTRL
    &kp LGUI   &kp DEL  &kp LEFT  &kp DOWN  &kp RIGHT  &kp PGDN        &kp SQT     &trans     &kp COMMA  &kp DOT    &trans     &kp RSHFT
-                                &kp LALT   &kp LSHFT  &lt NUM SPACE   &lt SYM RET &kp BSPC   &kp RALTT
+                                &kp LALT   &kp LSHFT  &lt NUM SPACE   &lt SYM RET &kp BSPC   &kp RALT
                         >;
                 };
 
